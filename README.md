@@ -9,9 +9,9 @@ The syllabus for the course can be found [here]. (/Syllabus-EE319K.pdf)
 ## Labs
 ##### To configure your workspace for the labs:
 
-1. Install [Keil]. (http://users.ece.utexas.edu/~valvano/Volume1/KeilInstall.htm)
+1. Install [Keil] (http://users.ece.utexas.edu/~valvano/Volume1/KeilInstall.htm).
 2. Install drivers for [Windows XP] (http://users.ece.utexas.edu/~valvano/edX/InstallDriversXP.htm), [Windows Vista] (http://users.ece.utexas.edu/~valvano/edX/InstallDriversVista.htm), [Windows 7] (http://users.ece.utexas.edu/~valvano/edX/InstallDrivers7.htm), and [Windows 8] (http://users.ece.utexas.edu/~valvano/edX/InstallDrivers8.htm).
-3. Install [EE319kWare]. (http://edx-org-utaustinx.s3.amazonaws.com/UT601x/EE319K_InstallSpring2016.exe)
+3. Install [EE319kWare] (http://edx-org-utaustinx.s3.amazonaws.com/UT601x/EE319K_InstallSpring2016.exe).
 
 ##### The starter files for each lab are hosted in a separate repository. Links to the lab repositories can be found here:
 
