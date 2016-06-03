@@ -9,14 +9,13 @@ EE319K will continue the bottom-up educational approach, started in BME303 and E
 ## Labs
 ##### To configure your workspace for the labs:
 
-1. [Install Keil] (http://users.ece.utexas.edu/~valvano/Volume1/KeilInstall.htm)
+1. Install [Keil] (http://users.ece.utexas.edu/~valvano/Volume1/KeilInstall.htm)
 2. Install drivers for [Windows XP] (http://users.ece.utexas.edu/~valvano/edX/InstallDriversXP.htm), [Windows Vista] (http://users.ece.utexas.edu/~valvano/edX/InstallDriversVista.htm), [Windows 7] (http://users.ece.utexas.edu/~valvano/edX/InstallDrivers7.htm), and [Windows 8] (http://users.ece.utexas.edu/~valvano/edX/InstallDrivers8.htm).
-3. [Install EE319kWare] (http://edx-org-utaustinx.s3.amazonaws.com/UT601x/EE319K_InstallSpring2016.exe)
+3. Install [EE319kWare] (http://edx-org-utaustinx.s3.amazonaws.com/UT601x/EE319K_InstallSpring2016.exe)
 
 ##### The starter files for each lab are hosted in a separate repository. Links to the lab repositories can be found here:
 
-* Lab 1
-* Lab 2
+* [Lab 1] (https://github.com/UT-EmbeddedSystemsAndIndustry-2016/Lab1)
 
 ## Resources
 * [Datasheets] (http://users.ece.utexas.edu/%7Evalvano/Volume1/datasheets.htm)
