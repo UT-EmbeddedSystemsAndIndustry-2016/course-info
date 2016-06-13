@@ -14,6 +14,11 @@ To configure your workspace for the labs:
 2. Install drivers for [Windows XP] (http://users.ece.utexas.edu/~valvano/edX/InstallDriversXP.htm), [Windows Vista] (http://users.ece.utexas.edu/~valvano/edX/InstallDriversVista.htm), [Windows 7] (http://users.ece.utexas.edu/~valvano/edX/InstallDrivers7.htm), and [Windows 8] (http://users.ece.utexas.edu/~valvano/edX/InstallDrivers8.htm).
 3. Install [EE319kWare] (http://edx-org-utaustinx.s3.amazonaws.com/UT601x/EE319K_InstallSpring2016.exe).
 
+To configure your workspace for version control (downloading and submitting labs):
+
+1. Install [Git for Windows] (https://git-for-windows.github.io/).
+2. Install [Tortoise SVN] (https://tortoisesvn.net/downloads.html).
+
 #### Starter files
 The starter files for each lab are hosted in a separate repository. Links to the lab repositories can be found here:
 
@@ -22,10 +27,10 @@ The starter files for each lab are hosted in a separate repository. Links to the
 #### Workflow
 We will follow a standard Github workflow for working on and submitting labs. This process is widely used in industry and will be useful to you in future collaborative projects.
 
-1. To start, [**fork** the repository][forking].
+1. To start, [**fork** the repository][forking] on Github. Give your team write permissions under Settings -> Collaborators and Teams.
 1. [**Clone**][ref-clone] the repository to your computer.
-1. Modify the files and [**commit**][ref-commit] changes to complete your solution.
-1. [**Push**][ref-push]/sync the changes up to GitHub.
+1. As you work on the lab, you will modify the files and [**commit**][ref-commit] changes to complete your solution.
+1. [**Push**][ref-push]/sync the changes up to your fork on GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
 ## Resources
