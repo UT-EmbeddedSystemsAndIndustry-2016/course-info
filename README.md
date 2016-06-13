@@ -23,6 +23,9 @@ To configure your workspace for version control (downloading and submitting labs
 The starter files for each lab are hosted in a separate repository. Links to the lab repositories can be found here:
 
 * [Lab 1] (https://github.com/UT-EmbeddedSystemsAndIndustry-2016/Lab1)
+* [Lab 2] (https://github.com/UT-EmbeddedSystemsAndIndustry-2016/Lab2)
+* [Lab 3] (https://github.com/UT-EmbeddedSystemsAndIndustry-2016/Lab3)
+* [Lab 4] (https://github.com/UT-EmbeddedSystemsAndIndustry-2016/Lab4)
 
 #### Workflow
 We will follow a standard Github workflow for working on and submitting labs. This process is widely used in industry and will be useful to you in future collaborative projects.
