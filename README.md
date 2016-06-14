@@ -17,7 +17,7 @@ To configure your workspace for the labs:
 To configure your workspace for version control (downloading and submitting labs):
 
 1. Install [Git for Windows] (https://git-for-windows.github.io/).
-2. Install [Tortoise SVN] (https://tortoisesvn.net/downloads.html).
+2. Install [Tortoise Git] (https://tortoisegit.org/download/).
 
 #### Starter files
 The starter files for each lab are hosted in a separate repository. Links to the lab repositories can be found here:
